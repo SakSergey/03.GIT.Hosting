@@ -3,3 +3,4 @@ second line
 first line for hotfix branch
 first line for dev branch
 second line for dev branch
+first line for features branch
